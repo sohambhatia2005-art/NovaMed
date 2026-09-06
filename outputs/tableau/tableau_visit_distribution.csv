@@ -1,0 +1,9 @@
+priority_bucket,state,visit_share_pct,rx_yield_per_visit,wasted_effort_flag
+Priority A,Current,2.5,4.61,False
+Priority A,Recommended,50.0,4.61,False
+Priority B,Current,47.0,6.41,False
+Priority B,Recommended,25.0,6.41,False
+Priority C,Current,6.1,3.86,True
+Priority C,Recommended,15.0,3.86,True
+Priority D,Current,44.4,4.06,True
+Priority D,Recommended,10.0,4.06,True

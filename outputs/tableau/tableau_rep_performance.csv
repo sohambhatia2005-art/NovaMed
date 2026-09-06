@@ -1,0 +1,121 @@
+rep_id,rep_name,city,region,drug_focus,tenure_years,total_visits,total_rx_generated,visit_intensity,efficiency_ratio,performance_quadrant,region_rank,overall_rank,mpi_score,territory_cluster
+1,Aryan Maharaj,Delhi,North,CardioMax,7,849,33272,0.186,0.96,"Low Effort, Low Impact",9,23,8.3,Appropriately Covered
+2,Udant Dewan,Delhi,North,CardioMax,5,765,33318,0.17,0.977,"Low Effort, Low Impact",7,21,8.3,Appropriately Covered
+3,Gagan Sami,Delhi,North,CardioMax,7,892,34564,0.189,0.97,"Low Effort, Low Impact",1,13,8.3,Appropriately Covered
+4,Ayushman Chander,Delhi,North,CardioMax,10,880,34153,0.189,0.974,"Low Effort, Low Impact",3,16,8.3,Appropriately Covered
+5,Viraj Tiwari,Delhi,North,CardioMax,5,847,34012,0.182,0.971,"Low Effort, Low Impact",4,17,8.3,Appropriately Covered
+6,Rushil Saini,Delhi,North,CardioMax,5,787,34323,0.169,0.971,"Low Effort, Low Impact",2,14,8.3,Appropriately Covered
+7,Saumya Mall,Delhi,North,GlucoShield,10,899,33012,0.194,0.949,"Low Effort, Low Impact",10,24,8.3,Appropriately Covered
+8,Nathaniel Sami,Delhi,North,GlucoShield,8,829,31936,0.179,0.919,"Low Effort, Low Impact",12,32,8.3,Appropriately Covered
+9,Arunima Dugal,Delhi,North,GlucoShield,4,785,32316,0.17,0.937,"Low Effort, Low Impact",11,28,8.3,Appropriately Covered
+10,Gayathri Chaudry,Delhi,North,GlucoShield,7,841,33456,0.178,0.937,"Low Effort, Low Impact",6,20,8.3,Appropriately Covered
+11,Lajita Chatterjee,Delhi,North,GlucoShield,4,805,33298,0.169,0.935,"Low Effort, Low Impact",8,22,8.3,Appropriately Covered
+12,Hemangini Lalla,Delhi,North,GlucoShield,4,812,33499,0.17,0.935,"Low Effort, Low Impact",5,19,8.3,Appropriately Covered
+13,Tripti Yadav,Lucknow,North,CardioMax,6,809,10018,0.616,1.147,"High Effort, High Impact",13,82,40.6,"Under-covered, High Potential"
+14,Kritika Brar,Lucknow,North,CardioMax,1,663,10018,0.505,1.147,"High Effort, High Impact",13,82,40.6,"Under-covered, High Potential"
+15,Janaki Handa,Lucknow,North,CardioMax,1,719,10018,0.547,1.147,"High Effort, High Impact",13,82,40.6,"Under-covered, High Potential"
+16,Chakradev Kari,Lucknow,North,GlucoShield,4,790,9709,0.601,1.111,"High Effort, High Impact",16,85,40.6,"Under-covered, High Potential"
+17,Fariq Kaul,Lucknow,North,GlucoShield,2,729,9709,0.555,1.111,"High Effort, High Impact",16,85,40.6,"Under-covered, High Potential"
+18,Lajita Mall,Lucknow,North,GlucoShield,6,791,9709,0.602,1.111,"High Effort, High Impact",16,85,40.6,"Under-covered, High Potential"
+19,Janya Gaba,Lucknow,North,GlucoShield,3,793,9709,0.604,1.111,"High Effort, High Impact",16,85,40.6,"Under-covered, High Potential"
+20,Isha Kadakia,Lucknow,North,GlucoShield,1,681,9709,0.518,1.111,"High Effort, High Impact",16,85,40.6,"Under-covered, High Potential"
+21,Ekbal Garg,Jaipur,North,CardioMax,10,926,9186,0.768,1.142,"High Effort, High Impact",21,90,15.4,"Under-covered, High Potential"
+22,Nihal Shere,Jaipur,North,CardioMax,5,807,9186,0.669,1.142,"High Effort, High Impact",21,90,15.4,"Under-covered, High Potential"
+23,Anamika Kanda,Jaipur,North,CardioMax,6,849,9186,0.704,1.142,"High Effort, High Impact",21,90,15.4,"Under-covered, High Potential"
+24,Daksh Karnik,Jaipur,North,CardioMax,1,753,9186,0.624,1.142,"High Effort, High Impact",21,90,15.4,"Under-covered, High Potential"
+25,Diya Rattan,Jaipur,North,GlucoShield,4,771,9005,0.639,1.12,"High Effort, High Impact",25,94,15.4,"Under-covered, High Potential"
+26,Dominic Kakar,Jaipur,North,GlucoShield,6,883,9005,0.732,1.12,"High Effort, High Impact",25,94,15.4,"Under-covered, High Potential"
+27,Simon Tata,Jaipur,North,GlucoShield,2,696,9005,0.577,1.12,"High Effort, High Impact",25,94,15.4,"Under-covered, High Potential"
+28,Tara Dhar,Chandigarh,North,CardioMax,7,1176,6828,1.815,2.001,"High Effort, High Impact",31,100,51.1,"Over-covered, Low Potential"
+29,Liam Koshy,Chandigarh,North,CardioMax,4,1117,6828,1.724,2.001,"High Effort, High Impact",31,100,51.1,"Over-covered, Low Potential"
+30,Priya Rastogi,Chandigarh,North,CardioMax,5,1238,6828,1.91,2.001,"High Effort, High Impact",31,100,51.1,"Over-covered, Low Potential"
+31,Theodore Devi,Chandigarh,North,GlucoShield,4,1198,6906,1.849,2.023,"High Effort, High Impact",28,97,51.1,"Over-covered, Low Potential"
+32,Gavin Batta,Chandigarh,North,GlucoShield,11,888,6906,1.37,2.023,"High Effort, High Impact",28,97,51.1,"Over-covered, Low Potential"
+33,Michael Dutta,Chandigarh,North,GlucoShield,5,820,6906,1.265,2.023,"High Effort, High Impact",28,97,51.1,"Over-covered, Low Potential"
+34,Devansh Rajan,Bangalore,South,CardioMax,2,715,30560,0.168,0.952,"Low Effort, Low Impact",8,41,12.9,Appropriately Covered
+35,Upadhriti Wadhwa,Bangalore,South,CardioMax,8,888,31431,0.202,0.945,"Low Effort, Low Impact",3,34,12.9,Appropriately Covered
+36,Advay Contractor,Bangalore,South,CardioMax,2,763,29614,0.181,0.927,"Low Effort, Low Impact",11,47,12.9,Appropriately Covered
+37,Harini Choudhury,Bangalore,South,CardioMax,6,822,29913,0.196,0.942,"Low Effort, Low Impact",9,43,12.9,Appropriately Covered
+38,Radhika Dugar,Bangalore,South,CardioMax,1,710,30704,0.167,0.955,"Low Effort, Low Impact",7,40,12.9,Appropriately Covered
+39,Aarush Lall,Bangalore,South,CardioMax,2,725,29857,0.173,0.944,"Low Effort, Low Impact",10,45,12.9,Appropriately Covered
+40,Yashica Cherian,Bangalore,South,GlucoShield,6,821,32118,0.188,0.976,"Low Effort, Low Impact",2,31,12.9,Appropriately Covered
+41,Yashica Issac,Bangalore,South,GlucoShield,8,870,32128,0.199,0.97,"Low Effort, Low Impact",1,30,12.9,Appropriately Covered
+42,Kashvi Edwin,Bangalore,South,GlucoShield,6,860,31271,0.198,0.958,"Low Effort, Low Impact",4,35,12.9,Appropriately Covered
+43,Ekiya Suresh,Bangalore,South,GlucoShield,5,749,31025,0.176,0.966,"Low Effort, Low Impact",6,37,12.9,Appropriately Covered
+44,Isaac Patil,Bangalore,South,GlucoShield,5,799,31148,0.187,0.968,"Low Effort, Low Impact",5,36,12.9,Appropriately Covered
+45,Wriddhish Bhardwaj,Chennai,South,CardioMax,1,709,24634,0.198,0.912,"Low Effort, Low Impact",21,57,33.4,Appropriately Covered
+46,Farhan Chada,Chennai,South,CardioMax,3,768,25213,0.21,0.913,"Low Effort, Low Impact",13,49,33.4,Appropriately Covered
+47,Ekapad Walia,Chennai,South,CardioMax,4,776,24683,0.218,0.913,"Low Effort, Low Impact",20,56,33.4,Appropriately Covered
+48,Kabir Soman,Chennai,South,CardioMax,9,893,24693,0.246,0.906,"Low Effort, Low Impact",19,55,33.4,Appropriately Covered
+49,Alka Wable,Chennai,South,CardioMax,7,885,24889,0.243,0.91,"Low Effort, Low Impact",17,53,33.4,Appropriately Covered
+50,Siddharth Zacharia,Chennai,South,GlucoShield,1,694,25244,0.189,0.914,"Low Effort, Low Impact",12,48,33.4,Appropriately Covered
+51,Devika Rastogi,Chennai,South,GlucoShield,6,827,25033,0.226,0.911,"Low Effort, Low Impact",16,52,33.4,Appropriately Covered
+52,Raksha Varughese,Chennai,South,GlucoShield,4,801,25175,0.219,0.914,"Low Effort, Low Impact",14,50,33.4,Appropriately Covered
+53,Jai Kota,Chennai,South,GlucoShield,3,756,24763,0.209,0.907,"Low Effort, Low Impact",18,54,33.4,Appropriately Covered
+54,Devansh Nigam,Chennai,South,GlucoShield,7,894,25125,0.245,0.915,"Low Effort, Low Impact",15,51,33.4,Appropriately Covered
+55,Victor Kannan,Hyderabad,South,CardioMax,9,906,18364,0.317,0.983,"High Effort, Low Impact",27,63,27.0,Appropriately Covered
+56,Ekavir Bhargava,Hyderabad,South,CardioMax,8,903,18275,0.318,0.981,"High Effort, Low Impact",29,65,27.0,Appropriately Covered
+57,Ekansh Balay,Hyderabad,South,CardioMax,3,740,18298,0.26,0.981,"Low Effort, Low Impact",28,64,27.0,Appropriately Covered
+58,Ekavir Varkey,Hyderabad,South,CardioMax,5,792,18139,0.28,0.977,"High Effort, Low Impact",30,66,27.0,Appropriately Covered
+59,Arya Sunder,Hyderabad,South,GlucoShield,6,817,18601,0.287,1.002,"High Effort, High Impact",25,61,27.0,Appropriately Covered
+60,Kevin Solanki,Hyderabad,South,GlucoShield,8,888,18740,0.312,1.007,"High Effort, High Impact",23,59,27.0,Appropriately Covered
+61,Urvashi Ray,Hyderabad,South,GlucoShield,4,756,18675,0.266,1.002,"Low Effort, High Impact",24,60,27.0,Appropriately Covered
+62,Girindra Chatterjee,Hyderabad,South,GlucoShield,5,785,18766,0.274,1.004,"High Effort, High Impact",22,58,27.0,Appropriately Covered
+63,Irya Sampath,Hyderabad,South,GlucoShield,2,719,18487,0.259,1.013,"Low Effort, High Impact",26,62,27.0,Appropriately Covered
+64,Unni Bhagat,Kochi,South,CardioMax,2,747,5334,0.883,1.165,"High Effort, High Impact",31,107,37.6,"Under-covered, High Potential"
+65,Darsh Rau,Kochi,South,CardioMax,8,890,5334,1.052,1.165,"High Effort, High Impact",31,107,37.6,"Under-covered, High Potential"
+66,Ikbal Kothari,Kochi,South,GlucoShield,10,959,5153,1.134,1.125,"High Effort, High Impact",33,109,37.6,"Under-covered, High Potential"
+67,Ranveer Yadav,Kochi,South,GlucoShield,5,806,5153,0.953,1.125,"High Effort, High Impact",33,109,37.6,"Under-covered, High Potential"
+68,Logan Sami,Kochi,South,GlucoShield,9,919,5153,1.086,1.125,"High Effort, High Impact",33,109,37.6,"Under-covered, High Potential"
+69,Arya Shere,Kochi,South,GlucoShield,7,818,5153,0.967,1.125,"High Effort, High Impact",33,109,37.6,"Under-covered, High Potential"
+70,Faqid Savant,Kolkata,East,CardioMax,4,775,29861,0.201,1.028,"Low Effort, High Impact",10,44,16.5,Appropriately Covered
+71,Chandresh Zachariah,Kolkata,East,CardioMax,7,880,30822,0.223,1.036,"Low Effort, High Impact",7,38,16.5,Appropriately Covered
+72,Girik Khalsa,Kolkata,East,CardioMax,10,947,30527,0.24,1.026,"Low Effort, High Impact",9,42,16.5,Appropriately Covered
+73,Niharika Sunder,Kolkata,East,CardioMax,5,785,29713,0.204,1.028,"Low Effort, High Impact",11,46,16.5,Appropriately Covered
+74,Tanay Rattan,Kolkata,East,CardioMax,10,883,30716,0.223,1.028,"Low Effort, High Impact",8,39,16.5,Appropriately Covered
+75,Nitesh Raghavan,Kolkata,East,GlucoShield,1,689,32214,0.182,1.116,"Low Effort, High Impact",5,29,16.5,Appropriately Covered
+76,Madhavi Lanka,Kolkata,East,GlucoShield,8,849,32435,0.22,1.114,"Low Effort, High Impact",4,27,16.5,Appropriately Covered
+77,Bhavika Sampath,Kolkata,East,GlucoShield,6,795,32984,0.204,1.122,"Low Effort, High Impact",2,25,16.5,Appropriately Covered
+78,Mohammed Gupta,Kolkata,East,GlucoShield,5,811,31678,0.213,1.105,"Low Effort, High Impact",6,33,16.5,Appropriately Covered
+79,Teerth Bhardwaj,Kolkata,East,GlucoShield,6,846,33508,0.215,1.121,"Low Effort, High Impact",1,18,16.5,Appropriately Covered
+80,Dipta Bhandari,Kolkata,East,GlucoShield,1,695,32515,0.18,1.117,"Low Effort, High Impact",3,26,16.5,Appropriately Covered
+81,Vansha Thakkar,Patna,East,CardioMax,5,849,6057,0.907,0.981,"High Effort, Low Impact",14,105,78.5,"Over-covered, High Potential"
+82,Dakshesh Trivedi,Patna,East,CardioMax,7,821,6057,0.877,0.981,"High Effort, Low Impact",14,105,78.5,"Over-covered, High Potential"
+83,Quincy Biswas,Patna,East,GlucoShield,10,943,6181,1.007,1.001,"High Effort, High Impact",12,103,78.5,"Over-covered, High Potential"
+84,Wahab Raval,Patna,East,GlucoShield,4,780,6181,0.833,1.001,"High Effort, High Impact",12,103,78.5,"Over-covered, High Potential"
+85,Yatin Baral,Bhubaneswar,East,CardioMax,3,759,3413,1.406,1.27,"High Effort, High Impact",18,119,100.0,"Over-covered, High Potential"
+86,Oni Virk,Bhubaneswar,East,CardioMax,4,750,3413,1.389,1.27,"High Effort, High Impact",18,119,100.0,"Over-covered, High Potential"
+87,Advika Jayaraman,Bhubaneswar,East,GlucoShield,8,883,3501,1.635,1.303,"High Effort, High Impact",16,117,100.0,"Over-covered, High Potential"
+88,William Lanka,Bhubaneswar,East,GlucoShield,6,840,3501,1.556,1.303,"High Effort, High Impact",16,117,100.0,"Over-covered, High Potential"
+89,Karan Mital,Mumbai,West,CardioMax,4,752,35691,0.151,0.962,"Low Effort, Low Impact",9,9,0.0,Appropriately Covered
+90,Diya Bora,Mumbai,West,CardioMax,7,826,36047,0.164,0.961,"Low Effort, Low Impact",8,8,0.0,Appropriately Covered
+91,Tara Chaudhry,Mumbai,West,CardioMax,6,775,35538,0.155,0.95,"Low Effort, Low Impact",10,10,0.0,Appropriately Covered
+92,Tanay Toor,Mumbai,West,CardioMax,8,862,34806,0.174,0.943,"Low Effort, Low Impact",12,12,0.0,Appropriately Covered
+93,Kevin Palla,Mumbai,West,CardioMax,3,740,34243,0.154,0.955,"Low Effort, Low Impact",13,15,0.0,Appropriately Covered
+94,Yash Pingle,Mumbai,West,CardioMax,5,836,36508,0.161,0.947,"Low Effort, Low Impact",5,5,0.0,Appropriately Covered
+95,Nakul Sarma,Mumbai,West,GlucoShield,4,761,36150,0.154,0.988,"Low Effort, High Impact",6,6,0.0,Appropriately Covered
+96,Abhiram Mistry,Mumbai,West,GlucoShield,1,715,36109,0.146,0.983,"Low Effort, Low Impact",7,7,0.0,Appropriately Covered
+97,Krish Lalla,Mumbai,West,GlucoShield,6,836,37303,0.165,0.99,"Low Effort, High Impact",2,2,0.0,Appropriately Covered
+98,Hredhaan Dugal,Mumbai,West,GlucoShield,6,809,37595,0.158,0.987,"Low Effort, Low Impact",1,1,0.0,Appropriately Covered
+99,Baghyawati Kade,Mumbai,West,GlucoShield,6,797,35485,0.163,0.978,"Low Effort, Low Impact",11,11,0.0,Appropriately Covered
+100,Samar Lalla,Mumbai,West,GlucoShield,5,762,37097,0.153,1.0,"Low Effort, High Impact",4,4,0.0,Appropriately Covered
+101,Zayan Behl,Mumbai,West,GlucoShield,1,765,37215,0.153,0.998,"Low Effort, High Impact",3,3,0.0,Appropriately Covered
+102,Pallavi Malhotra,Pune,West,CardioMax,4,756,14112,0.316,0.952,"High Effort, Low Impact",14,67,19.2,Appropriately Covered
+103,Aarush Nath,Pune,West,CardioMax,4,793,14112,0.331,0.952,"High Effort, Low Impact",14,67,19.2,Appropriately Covered
+104,Adweta Edwin,Pune,West,CardioMax,3,734,14102,0.309,0.953,"High Effort, Low Impact",16,69,19.2,Appropriately Covered
+105,Prisha Andra,Pune,West,CardioMax,5,787,13931,0.339,0.95,"High Effort, Low Impact",17,70,19.2,Appropriately Covered
+106,Faqid Dixit,Pune,West,GlucoShield,7,813,13791,0.34,0.931,"High Effort, Low Impact",18,71,19.2,Appropriately Covered
+107,Kala Divan,Pune,West,GlucoShield,11,915,13791,0.382,0.931,"High Effort, Low Impact",18,71,19.2,Appropriately Covered
+108,Joshua Barman,Pune,West,GlucoShield,6,783,13691,0.332,0.927,"High Effort, Low Impact",21,74,19.2,Appropriately Covered
+109,Janya Baral,Pune,West,GlucoShield,6,806,13779,0.339,0.931,"High Effort, Low Impact",20,73,19.2,Appropriately Covered
+110,Shivansh Krish,Ahmedabad,West,CardioMax,5,826,12119,0.41,0.949,"High Effort, Low Impact",25,78,29.0,Appropriately Covered
+111,Irya Ray,Ahmedabad,West,CardioMax,1,693,11986,0.347,0.946,"High Effort, Low Impact",28,81,29.0,Appropriately Covered
+112,Warjas Gaba,Ahmedabad,West,CardioMax,5,841,12119,0.417,0.949,"High Effort, Low Impact",25,78,29.0,Appropriately Covered
+113,Nitara Bakshi,Ahmedabad,West,CardioMax,6,850,12119,0.422,0.949,"High Effort, Low Impact",25,78,29.0,Appropriately Covered
+114,Gaurangi Sabharwal,Ahmedabad,West,GlucoShield,13,877,13186,0.435,1.033,"High Effort, High Impact",22,75,29.0,Appropriately Covered
+115,Amara Dutta,Ahmedabad,West,GlucoShield,5,805,13186,0.399,1.033,"High Effort, High Impact",22,75,29.0,Appropriately Covered
+116,Lavanya Barad,Ahmedabad,West,GlucoShield,6,848,13186,0.421,1.033,"High Effort, High Impact",22,75,29.0,Appropriately Covered
+117,Tristan Iyengar,Indore,West,CardioMax,5,800,4247,1.14,1.192,"High Effort, High Impact",31,115,60.2,"Over-covered, High Potential"
+118,Inaya Mody,Indore,West,CardioMax,2,693,4247,0.987,1.192,"High Effort, High Impact",31,115,60.2,"Over-covered, High Potential"
+119,Udant Bajwa,Indore,West,GlucoShield,9,887,4601,1.264,1.291,"High Effort, High Impact",29,113,60.2,"Over-covered, High Potential"
+120,Mohini Narasimhan,Indore,West,GlucoShield,8,916,4601,1.305,1.291,"High Effort, High Impact",29,113,60.2,"Over-covered, High Potential"

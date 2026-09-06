@@ -1,0 +1,16 @@
+city_id,city_name,region,tier,mpi_score,coverage_intensity,total_visits,num_hcps,territory_cluster
+11,Bhubaneswar,East,Tier3,100.0,5.985,3232,30,"Over-covered, High Potential"
+10,Patna,East,Tier2,78.5,3.625,3393,52,"Over-covered, High Potential"
+15,Indore,West,Tier3,60.2,4.695,3296,39,"Over-covered, High Potential"
+4,Chandigarh,North,Tier3,51.1,9.934,6437,36,"Over-covered, Low Potential"
+2,Lucknow,North,Tier2,40.6,4.547,5975,73,"Under-covered, High Potential"
+8,Kochi,South,Tier3,37.6,6.074,5139,47,"Under-covered, High Potential"
+6,Chennai,South,Tier1,33.4,2.158,8003,206,Appropriately Covered
+14,Ahmedabad,West,Tier2,29.0,2.847,5740,112,Appropriately Covered
+7,Hyderabad,South,Tier2,27.0,2.553,7306,159,Appropriately Covered
+13,Pune,West,Tier2,19.2,2.668,6387,133,Appropriately Covered
+9,Kolkata,East,Tier1,16.5,2.241,8955,222,Appropriately Covered
+3,Jaipur,North,Tier2,15.4,4.714,5685,67,"Under-covered, High Potential"
+5,Bangalore,South,Tier1,12.9,1.946,8722,249,Appropriately Covered
+1,Delhi,North,Tier1,8.3,2.018,9991,275,Appropriately Covered
+12,Mumbai,West,Tier1,0.0,1.896,10236,300,Appropriately Covered

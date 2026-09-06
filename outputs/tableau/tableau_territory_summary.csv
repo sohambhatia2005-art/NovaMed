@@ -1,0 +1,16 @@
+city_name,region,tier,population_millions,specialist_count,disease_prevalence_index,mpi_score,avg_visit_intensity,avg_efficiency_ratio,territory_cluster,num_reps_assigned,total_rx_volume,rx_per_rep,latitude,longitude
+Bhubaneswar,East,Tier3,0.9,35,70,100.0,1.4965,1.2865,"Over-covered, High Potential",4,13828,3457.0,20.2961,85.8245
+Patna,East,Tier2,2.0,60,78,78.5,0.9059999999999999,0.9909999999999999,"Over-covered, High Potential",4,24476,6119.0,25.6093,85.1376
+Indore,West,Tier3,1.9,45,72,60.2,1.174,1.2414999999999998,"Over-covered, High Potential",4,17696,4424.0,22.7196,75.8577
+Chandigarh,North,Tier3,1.1,42,48,51.1,1.6555,2.012,"Over-covered, Low Potential",6,41202,6867.0,30.7333,76.7794
+Lucknow,North,Tier2,3.5,85,68,40.6,0.5685,1.1245,"Under-covered, High Potential",8,78599,9824.9,26.8467,80.9462
+Kochi,South,Tier3,2.1,55,58,37.6,1.0125,1.1383333333333334,"Under-covered, High Potential",6,31280,5213.3,9.9312,76.2673
+Chennai,South,Tier1,8.9,240,70,33.4,0.2203,0.9115,Appropriately Covered,10,249452,24945.2,13.0827,80.2707
+Ahmedabad,West,Tier2,5.6,130,64,29.0,0.4072857142857143,0.9845714285714285,Appropriately Covered,7,87901,12557.3,23.0225,72.5714
+Hyderabad,South,Tier2,7.7,185,62,27.0,0.28588888888888886,0.9944444444444444,Appropriately Covered,9,166345,18482.8,17.385,78.4867
+Pune,West,Tier2,6.8,155,60,19.2,0.336,0.940875,Appropriately Covered,8,111309,13913.6,18.5204,73.8567
+Kolkata,East,Tier1,14.9,260,75,16.5,0.20954545454545456,1.0764545454545456,Appropriately Covered,11,346973,31543.0,22.5726,88.3639
+Jaipur,North,Tier2,3.1,78,55,15.4,0.6732857142857143,1.1325714285714286,"Under-covered, High Potential",7,63759,9108.4,26.9124,75.7873
+Bangalore,South,Tier1,12.3,290,65,12.9,0.18500000000000003,0.9548181818181818,Appropriately Covered,11,339769,30888.1,12.9716,77.5946
+Delhi,North,Tier1,19.0,320,72,8.3,0.17875,0.9529166666666667,Appropriately Covered,12,401159,33429.9,28.6139,77.209
+Mumbai,West,Tier1,20.7,350,68,0.0,0.15776923076923077,0.9724615384615384,Appropriately Covered,13,469787,36137.5,19.076,72.8777

@@ -1,0 +1,16 @@
+city_id,city_name,region,tier,population_millions,specialist_count,disease_prevalence_index
+1,Delhi,North,Tier1,19.0,320,72
+2,Lucknow,North,Tier2,3.5,85,68
+3,Jaipur,North,Tier2,3.1,78,55
+4,Chandigarh,North,Tier3,1.1,42,48
+5,Bangalore,South,Tier1,12.3,290,65
+6,Chennai,South,Tier1,8.9,240,70
+7,Hyderabad,South,Tier2,7.7,185,62
+8,Kochi,South,Tier3,2.1,55,58
+9,Kolkata,East,Tier1,14.9,260,75
+10,Patna,East,Tier2,2.0,60,78
+11,Bhubaneswar,East,Tier3,0.9,35,70
+12,Mumbai,West,Tier1,20.7,350,68
+13,Pune,West,Tier2,6.8,155,60
+14,Ahmedabad,West,Tier2,5.6,130,64
+15,Indore,West,Tier3,1.9,45,72
